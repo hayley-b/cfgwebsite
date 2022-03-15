@@ -1,0 +1,11 @@
+.nav {
+    background-color: aqua;
+}
+
+.container {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container-fluid {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
